@@ -1,6 +1,6 @@
 {
   "name": "@exodus/styled-jsx",
-  "version": "3.2.3",
+  "version": "3.2.3-exodus0",
   "license": "MIT",
   "repository": "ExodusMovement/styled-jsx",
   "description": "Full CSS support for JSX without compromises",
